@@ -14,4 +14,9 @@ I work at Xpirit as an Azure & DevOps Consultant. I am a Computer Systems Engine
 *Thank you for visiting. The opinions expressed here do not represent my employer.*
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps to GitHub – Repo Migration](https://dsanchezcr.com/blog/azure-devops-to-github-repo-migration)
+- [List repositories with their sizes in Azure Repos](https://dsanchezcr.com/blog/list-azure-repos-with-sizes)
+- [Cost Savings with Azure for your Web Apps](https://dsanchezcr.com/blog/cost-savings-with-azure)
+- [Adding Load Testing to your CI/CD workflows](https://dsanchezcr.com/blog/adding-load-testing-to-your-workflows)
+- [Webinar - From Code to Cloud in a secure way with GitHub Advanced Security](https://dsanchezcr.com/blog/Webinar-GHAS)
 <!-- BLOG-POST-LIST:END -->
