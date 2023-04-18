@@ -12,3 +12,6 @@ I work at Xpirit as an Azure & DevOps Consultant. I am a Computer Systems Engine
 - 🎮 My gamertag is dsanchezcr. Feel free to add me to play online.
 
 *Thank you for visiting. The opinions expressed here do not represent my employer.*
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
