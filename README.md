@@ -13,11 +13,11 @@ I work at Xpirit | Xebia as an Azure & DevOps Consultant. I am a Computer System
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Verified Commits in GitHub](https://dsanchezcr.com/blog/verified-commits-in-github)
 - [Building a simple contact form](https://dsanchezcr.com/blog/building-a-contact-form-with-azure)
 - [Azure DevOps to GitHub – Repo Migration](https://dsanchezcr.com/blog/azure-devops-to-github-repo-migration)
 - [List repositories with their sizes in Azure Repos](https://dsanchezcr.com/blog/list-azure-repos-with-sizes)
 - [Cost Savings with Azure for your Web Apps](https://dsanchezcr.com/blog/cost-savings-with-azure)
-- [Adding Load Testing to your CI/CD workflows](https://dsanchezcr.com/blog/adding-load-testing-to-your-workflows)
 <!-- BLOG-POST-LIST:END -->
 
 *Thank you for visiting. The opinions expressed here do not represent my employer.*
