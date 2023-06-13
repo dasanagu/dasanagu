@@ -2,17 +2,22 @@
 
 ## Introduction about myself:
 
-I work at [Xebia | Xpirit](https://xpirit.com/david) as a DevOps Solution Architect. I am a Computer Systems Engineer, developer, blogger, content creator, speaker, and passionate about technology. I like to share content about technology, open-source projects, soft skills, innovation, cloud, and web development. I live in Orlando, Florida but I was born and raised in Costa Rica. I speak Spanish, English and Portuguese (limited). I have over 13 years of experience in the technology industry focused on software development and collaboration platforms. I used to work at Microsoft for almost 7 years but previously, I was a Microsoft Most Valuable Professional and a Software Development Consultant for different companies in Costa Rica. I am a [Microsoft Certified Professional and Trainer](https://credly.com/users/dsanchezcr/badges). Thank you for reading and feel free to reach out.
+I work at [Xebia | Xpirit](https://xpirit.com/david) as a DevOps Solution Architect. I am a Computer Systems Engineer, developer, blogger, content creator, speaker, and passionate about technology. I like to share content about technology, open-source projects, soft skills, innovation, cloud, and web development. I live in Orlando, Florida but I was born and raised in Costa Rica. I speak Spanish, English and Portuguese (limited). I have over 13 years of experience in the technology industry focused on software development and collaboration platforms. I used to work at Microsoft for almost 7 years but previously, I was a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/PublicProfile/5000234) and a Software Development Consultant for different companies in Costa Rica. I am a [Microsoft Certified Professional and Trainer](https://credly.com/users/dsanchezcr/badges). Thank you for reading and feel free to reach out.
+
+<a href="https://www.credly.com/earner/earned/badge/ed70c14c-8461-4cd1-9a72-b4d61fabf073"><img src="https://images.credly.com/images/307e548a-c59d-4b65-b3d7-cdced866f27f/image.png" alt="Microsoft MVP Alumni" width="20%" height="20%"></a>
 
 ## Website
 - 🌎 [Visit my website and blog](https://dsanchezcr.com)
 
 ## My mission:
-```Helping people to build the most innovative solutions with technology.```
+> ***Helping people to build the most innovative solutions with technology.***
 
 ## Hobbies 
-- 🌱 I’m currently learning about Kubernetes & Microservices architectures.
-- 🎮 My gamertag is dsanchezcr. Feel free to add me to play online on PC, Xbox & Play Station.
+- 
+- 🖨️ I like to spend time with 3D Printing and design things for it.
+- 🏠 Home automation, IoT and anything that can be automated to make things easier.
+- 🌱 I am currently learning about Kubernetes & Microservices architectures.
+- 🎮 My gamertag is **dsanchezcr**. Feel free to add me to play online on PC or Xbox.
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
