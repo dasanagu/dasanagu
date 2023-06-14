@@ -13,7 +13,6 @@ I work at [Xebia | Xpirit](https://xpirit.com/david) as a DevOps Architect. I am
 > ***Helping people to build the most innovative solutions with technology.***
 
 ## Hobbies 
-- 
 - 🖨️ I like to spend time with 3D Printing and design things for it.
 - 🏠 Home automation, IoT and anything that can be automated to make things easier.
 - 🌱 I am currently learning about Kubernetes & Microservices architectures.
