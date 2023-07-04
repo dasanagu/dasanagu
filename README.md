@@ -20,11 +20,11 @@ I work at [Xebia | Xpirit](https://xpirit.com/david) as a DevOps Consultant. I a
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Connecting to SQL Azure without Secrets](https://dsanchezcr.com/blog/SQL-Azure-Without-Secrets)
 - [How many days work items have been open in Azure Boards](https://dsanchezcr.com/blog/days-work-items-open)
 - [Verified Commits in GitHub](https://dsanchezcr.com/blog/verified-commits-in-github)
 - [Building a simple contact form](https://dsanchezcr.com/blog/building-a-contact-form-with-azure)
 - [Azure DevOps to GitHub – Repo Migration](https://dsanchezcr.com/blog/azure-devops-to-github-repo-migration)
-- [List repositories with their sizes in Azure Repos](https://dsanchezcr.com/blog/list-azure-repos-with-sizes)
 <!-- BLOG-POST-LIST:END -->
 
 ##
