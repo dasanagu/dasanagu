@@ -18,11 +18,11 @@ I am a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-US/mv
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Colones Exchange Rate - NuGet Package](https://dsanchezcr.com/blog/colones-exchange-rate-package)
+- [Extending CosmicWorks with Azure Cognitive Search and Azure OpenAI](https://dsanchezcr.com/blog/cosmicworks-azure-cognitive-search-azure-openai)
 - [Connecting to SQL Azure without Secrets](https://dsanchezcr.com/blog/SQL-Azure-Without-Secrets)
 - [How many days work items have been open in Azure Boards](https://dsanchezcr.com/blog/days-work-items-open)
 - [Verified Commits in GitHub](https://dsanchezcr.com/blog/verified-commits-in-github)
-- [Building a simple contact form](https://dsanchezcr.com/blog/building-a-contact-form-with-azure)
-- [Azure DevOps to GitHub – Repo Migration](https://dsanchezcr.com/blog/azure-devops-to-github-repo-migration)
 <!-- BLOG-POST-LIST:END -->
 
 ##
