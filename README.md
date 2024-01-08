@@ -2,7 +2,7 @@
 
 ## Introduction about myself:
 
-I am a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-US/mvp/profile/54640ff3-3c9a-e411-93f2-9cb65495d3c4) for Developer Technologies (DevOps) and a Computer Systems Engineer, developer, blogger, content creator, speaker, and passionate about technology. I like to share content about technology, open-source projects, soft skills, innovation, cloud, and web development. I live in Orlando, Florida but I was born and raised in Costa Rica. I speak Spanish, English and Portuguese (limited). I have over 13 years of experience in the technology industry focused on software development and collaboration platforms. I used to work at Microsoft for almost 7 years but previously, a Software Development Consultant for different companies in Costa Rica. I am a [Microsoft Certified Professional and Trainer](https://learn.microsoft.com/users/dsanchezcr/transcript/7o62li8gpo3z6qr). Thank you for reading and feel free to reach out.
+I am a Computer Systems Engineer, developer, blogger, content creator, speaker, and passionate about technology. I like to share content about technology, open-source projects, soft skills, innovation, cloud, and web development. I live in Orlando, Florida but I was born and raised in Costa Rica. I speak Spanish, English and Portuguese (limited). I have over 14 years of experience in the technology industry focused on software development and collaboration platforms. Thank you for reading and feel free to reach out.
 
 ## Website
 - 🌎 [Visit my website and blog](https://dsanchezcr.com)
