@@ -18,11 +18,11 @@ I am a Computer Systems Engineer, developer, blogger, content creator, speaker, 
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m returning to Microsoft as Global Black Belt Specialist - Azure Developer Audience](https://dsanchezcr.com/blog/Microsoft)
 - [Colones Exchange Rate - NuGet &amp; npm Packages](https://dsanchezcr.com/blog/colones-exchange-rate-package)
 - [Extending CosmicWorks with Azure Cognitive Search and Azure OpenAI](https://dsanchezcr.com/blog/cosmicworks-azure-cognitive-search-azure-openai)
 - [Connecting to SQL Azure without Secrets](https://dsanchezcr.com/blog/SQL-Azure-Without-Secrets)
 - [How many days work items have been open in Azure Boards](https://dsanchezcr.com/blog/days-work-items-open)
-- [Verified Commits in GitHub](https://dsanchezcr.com/blog/verified-commits-in-github)
 <!-- BLOG-POST-LIST:END -->
 
 ##
