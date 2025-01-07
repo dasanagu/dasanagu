@@ -18,11 +18,11 @@ I am a Computer Systems Engineer, developer, blogger, content creator, speaker, 
 
 ## 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Tips and Tricks for Adopting GitHub Copilot at Scale](https://dsanchezcr.com/blog/adopting-github-copilot-at-scale)
 - [Cloud Development Environments](https://dsanchezcr.com/blog/cloud-development-environments)
 - [GitHub de Mayo - Tips about GitHub](https://dsanchezcr.com/blog/github-de-mayo)
 - [Colones Exchange Rate - NuGet &amp; npm Packages](https://dsanchezcr.com/blog/colones-exchange-rate-package)
 - [Extending CosmicWorks with Azure Cognitive Search and Azure OpenAI](https://dsanchezcr.com/blog/cosmicworks-azure-cognitive-search-azure-openai)
-- [Connecting to SQL Azure without Secrets](https://dsanchezcr.com/blog/SQL-Azure-Without-Secrets)
 <!-- BLOG-POST-LIST:END -->
 
 ##
